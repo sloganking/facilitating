@@ -24,6 +24,7 @@ Response:    LOW ──────── MEDIUM ──────── HIGH
 
 ## Common Inappropriate Responses
 
+<!-- prettier-ignore -->
 | Response                     | What It Looks Like                     |
 | ---------------------------- | -------------------------------------- |
 | **Scorched Earth**           | Treating accidents like malice         |

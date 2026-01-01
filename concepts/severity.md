@@ -8,6 +8,7 @@ How serious is the harm caused? This determines how serious the response should 
 
 ## The Scale
 
+<!-- prettier-ignore -->
 | Level | Description | Examples |
 |-------|-------------|----------|
 | **HIGH** | Permanent harm. Physical or non-physical (reputation, options, safety). | Injury, public shaming, blacklisting |

@@ -32,6 +32,7 @@ When you don't recognize your power:
 
 ## Power Goes Both Ways
 
+<!-- prettier-ignore -->
 | Traditional View | Reality |
 |------------------|---------|
 | Facilitator has power over participant | Participant can also harm facilitator |

@@ -42,6 +42,7 @@ RESULT: Two victims
 
 ## Responsibility
 
+<!-- prettier-ignore -->
 | Person   | Responsibility                                                   |
 | -------- | ---------------------------------------------------------------- |
 | Person A | Check in, read cues, create safety for honesty                   |

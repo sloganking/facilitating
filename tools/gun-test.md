@@ -27,6 +27,7 @@ Examples:
 
 ### Severity Levels
 
+<!-- prettier-ignore -->
 | Activity | Severity |
 |----------|----------|
 | Holding a gun | HIGH |

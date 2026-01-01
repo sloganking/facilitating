@@ -8,6 +8,7 @@ Not all mistakes are the same. Understanding the TYPE helps determine the approp
 
 ## By Intent
 
+<!-- prettier-ignore -->
 | Type | Description | Response |
 |------|-------------|----------|
 | **Malicious** | Intentional harm | Accountability, consequences |
@@ -16,6 +17,7 @@ Not all mistakes are the same. Understanding the TYPE helps determine the approp
 
 ## By Awareness
 
+<!-- prettier-ignore -->
 | Type | Description |
 |------|-------------|
 | **Conscious, wrong thinking** | They were thinking, but thinking wrong |
@@ -23,6 +25,7 @@ Not all mistakes are the same. Understanding the TYPE helps determine the approp
 
 ## Additional Types
 
+<!-- prettier-ignore -->
 | Type | Description |
 |------|-------------|
 | **Freezing** | Person went silent/still, didn't communicate |
