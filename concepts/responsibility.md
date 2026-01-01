@@ -17,6 +17,7 @@ You are responsible for everything in your life that you have the power to influ
 **Key insight:** People can't take responsibility for things they believe they have no control over.
 
 Instead of lecturing someone on morality when they're not taking responsibility:
+
 - Show them their own power
 - Show them they can create a different outcome
 - Once they see their power, responsibility follows naturally
@@ -52,4 +53,3 @@ Taking responsibility is not the same as accepting blame.
 - [100% Control](../tools/100-percent-control.md) — The teaching tool
 - [Power Dynamics](./power-dynamics.md) — Unrecognized power
 - [Making It Right](./making-it-right.md) — Taking responsibility in action
-

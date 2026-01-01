@@ -15,6 +15,7 @@ Before interacting and playing with another person, ask yourself:
 Ask: **Why not?**
 
 Examples:
+
 - "I took sleeping medication and I'm tired"
 - "I've been drinking"
 - "My mood and mind are not in a space of integrity"
@@ -45,7 +46,7 @@ Should you trust yourself with medium-severity activities while tired?
 ## Example
 
 > "I'm on sleeping medication and tired, so I wouldn't let myself hold a gun. And thinking about it... I shouldn't be touching people and risking mistakes either."
-> 
+>
 > → Politely disengage.
 
 ## The Iron Giant
@@ -65,4 +66,3 @@ Choosing to disengage when you're not in a good state IS choosing who you want t
 - [Severity](../concepts/severity.md) — Understanding the scale
 - [Types of Mistakes](../concepts/types-of-mistakes.md) — Prevention beats repair
 - [Responsibility](../concepts/responsibility.md) — Self-check is taking responsibility
-

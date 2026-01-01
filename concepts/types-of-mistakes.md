@@ -60,4 +60,3 @@ See: [Mistake Matrix Chart](../charts/mistake-matrix.md)
 - [Fawning](./fawning.md) — Deep dive on this type
 - [Popcorn Metaphor](../tools/popcorn-metaphor.md) — Teaching tool for accidents
 - [Trauma & Filters](./trauma-and-filters.md) — Why people misread types
-

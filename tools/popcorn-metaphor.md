@@ -35,6 +35,7 @@ When an accident happens at a play party, our culture has so much trauma and sen
 ## What Happens
 
 People may:
+
 - Project and assume you were **consciously malicious** when you were not
 - Treat you and attack you as such
 - Treat the [severity](../concepts/severity.md) of your mistake as HIGH even though it was MEDIUM
@@ -44,6 +45,7 @@ People may:
 Accidents happen. Even to good people. Even to experienced people.
 
 The question is:
+
 - Was it an accident or was it [malicious](../concepts/types-of-mistakes.md)?
 - What is the actual [severity](../concepts/severity.md)?
 - Is the [response appropriate](../concepts/appropriate-response.md)?
@@ -61,4 +63,3 @@ We can help assess what actually happened and guide the repair process.
 - [Types of Mistakes](../concepts/types-of-mistakes.md) — Accident is a type
 - [Trauma & Filters](../concepts/trauma-and-filters.md) — Why accidents get misread
 - [Appropriate Response](../concepts/appropriate-response.md) — Matching response to reality
-

@@ -9,7 +9,7 @@
 ```
   ▲ HIGH
   │   • Permanent harm
-  │   • Reputation damage  
+  │   • Reputation damage
   │   • Physical injury
   │   • "Would I do this with a gun?"
   │
@@ -45,4 +45,3 @@
 
 HIGH mistake → HIGH response (appropriate)
 LOW mistake → HIGH response (YOU become the problem)
-

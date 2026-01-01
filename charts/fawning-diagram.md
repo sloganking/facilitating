@@ -68,4 +68,3 @@
 2. **A cannot consent to what they didn't know was happening**
 3. **B's trauma response has consequences for others**
 4. **Recognizing this is empowering, not blaming**
-

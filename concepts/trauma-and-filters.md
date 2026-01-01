@@ -27,12 +27,14 @@ Whatever comes up—whatever mistake someone makes, you make it, they make it—
 There may be a single sentence running your life and tainting how you see everything in the world.
 
 Examples:
+
 - "People always hurt me"
 - "I'm not safe"
 - "Men/women can't be trusted"
 - "I have to protect myself at all costs"
 
 These filters will distort:
+
 - How you interpret others' [types of mistakes](./types-of-mistakes.md)
 - How you assess [severity](./severity.md)
 - Whether your [response is appropriate](./appropriate-response.md)
@@ -55,4 +57,3 @@ How you handle it when interacting with others IS your responsibility.
 - [Types of Mistakes](./types-of-mistakes.md) — Trauma distorts how we read intent
 - [Appropriate Response](./appropriate-response.md) — Trauma can cause over-response
 - [Responsibility](./responsibility.md) — Owning your filters
-

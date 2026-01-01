@@ -74,4 +74,3 @@
 - You want others to take your side
 - You're treating an accident like malice
 - Your response would cause more harm than their mistake did
-

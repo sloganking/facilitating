@@ -20,6 +20,7 @@ Rather than blaming, attacking, or going for an eye for an eye—if the person w
 "I'm sorry" is not enough if it leaves the other person still hurt.
 
 Making it right means:
+
 - Asking what they need
 - Taking concrete steps
 - Following through
@@ -27,6 +28,7 @@ Making it right means:
 ## When the Other Person Doesn't Want Contact
 
 Sometimes the person receiving the repair may:
+
 - Not want communication at all
 - Want less than you want to give
 - Need space more than words
@@ -50,6 +52,7 @@ Sometimes people want revenge more than repair. That's a choice—but it's not r
 Some harms are too severe. Some people won't take [responsibility](./responsibility.md).
 
 In those cases:
+
 - Match [response to severity](./appropriate-response.md)
 - Involve facilitators
 - Prioritize your safety
@@ -62,4 +65,3 @@ In those cases:
 - [Responsibility](./responsibility.md) — Required for repair
 - [Appropriate Response](./appropriate-response.md) — Repair, not revenge
 - [Severity](./severity.md) — Some harms can't be repaired
-

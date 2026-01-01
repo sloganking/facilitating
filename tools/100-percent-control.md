@@ -15,7 +15,7 @@ When something you don't want occurs while interacting with another person, mult
 ## The Dance Metaphor
 
 > If somebody invites you to dance, you both have to say yes in order for the dance to happen.
-> 
+>
 > If either of you say no, the dance doesn't happen.
 
 **That's what 100% control means.**
@@ -29,6 +29,7 @@ This does **not** abdicate other participants from [responsibility](../concepts/
 Everyone, via action or inaction, created what happened.
 
 This is just a way of recognizing YOUR power:
+
 - Showing you how you can create what you want
 - Even in the face of actors who have other goals
 - Even when others want different things
@@ -37,12 +38,14 @@ This is just a way of recognizing YOUR power:
 ## Why This Matters
 
 When people don't see their power:
+
 - They don't take responsibility
 - They feel like victims of circumstance
 - They wait for others to change
 - They stay stuck
 
 When people see their 100% control:
+
 - They recognize their choices
 - They can create different outcomes
 - They stop waiting for the world to be different
@@ -63,4 +66,3 @@ You're saying: **"You have more power than you realized. Let's look at how you c
 - [Responsibility](../concepts/responsibility.md) — Power and responsibility together
 - [Power Dynamics](../concepts/power-dynamics.md) — Unrecognized power
 - [Making It Right](../concepts/making-it-right.md) — Using your power for repair
-

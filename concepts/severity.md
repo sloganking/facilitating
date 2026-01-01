@@ -39,4 +39,3 @@ Use the [Gun Test](../tools/gun-test.md) to assess whether you're in a state to 
 - [Types of Mistakes](./types-of-mistakes.md) — Severity is separate from intent
 - [Appropriate Response](./appropriate-response.md) — Matching response to severity
 - [Gun Test](../tools/gun-test.md) — Self-assessment tool
-

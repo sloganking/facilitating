@@ -15,6 +15,7 @@ This is often not true.
 Sometimes participants who play victim can have **more power** over facilitators and staff than those facilitators have over them.
 
 Examples:
+
 - A participant can destroy a facilitator's reputation with an accusation
 - A participant can mobilize community against staff
 - A participant can use their "victim" status as a weapon
@@ -26,6 +27,7 @@ Examples:
 This myth is created by people not recognizing their own power.
 
 When you don't recognize your power:
+
 - You don't take [responsibility](./responsibility.md) for it
 - You may wield it unconsciously
 - You may wield it destructively while believing yourself powerless
@@ -52,4 +54,3 @@ See: [100% Control](../tools/100-percent-control.md)
 - [Responsibility](./responsibility.md) — Unrecognized power = unowned responsibility
 - [Appropriate Response](./appropriate-response.md) — Power in response
 - [100% Control](../tools/100-percent-control.md) — Recognizing your own power
-
