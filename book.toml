@@ -1,6 +1,6 @@
 [book]
 title = "Facilitating Framework"
-authors = [""]
+authors = ["Logan King👑"]
 description = "A system for understanding mistakes, responsibility, and repair in somatic/intimacy spaces."
 language = "en"
 
@@ -10,5 +10,4 @@ build-dir = "docs"
 [output.html]
 default-theme = "coal"
 preferred-dark-theme = "coal"
-git-repository-url = "https://github.com/YOUR_USERNAME/facilitating"
-
+git-repository-url = "https://github.com/sloganking/facilitating"
