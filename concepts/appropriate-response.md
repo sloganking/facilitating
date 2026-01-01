@@ -22,6 +22,29 @@ Response:    LOW ──────── MEDIUM ──────── HIGH
 ✗ OVER-RESPONSE: Creates new harm, new victims
 ```
 
+## Unqualified Response = Over-Response
+
+There's another way to fail this test: **responding when you don't actually know what happened.**
+
+See: [Before You Judge](./before-you-judge.md)
+
+If you're not a [qualified source](./before-you-judge.md#are-you-a-qualified-source)—if you haven't verified with primary sources, if you're going on vibes or gossip—then **any disciplinary action you take is automatically an over-response.**
+
+Why? Because you don't know what you're responding to.
+
+- You might be punishing someone for something that didn't happen
+- You might be treating LOW severity as HIGH because someone was loud about it
+- You might be responding to a distorted version of events
+- You might be creating harm based on fiction
+
+```
+If UNQUALIFIED:
+  → Any response > NONE is over-response
+  → You are now a source of harm
+```
+
+The severity chart assumes you know what happened. If you don't, you can't use it yet. **Get qualified first.**
+
 ## Common Inappropriate Responses
 
 | Response                     | What It Looks Like                     |
