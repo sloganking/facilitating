@@ -73,7 +73,7 @@ When you have unprocessed trauma:
 See: [Response Flowchart](../charts/response-flowchart.md) | [Before You Judge](./before-you-judge.md)
 
 1. **Pause. Breathe.**
-2. **Do I actually know what happened?** (See: [Before You Judge](./before-you-judge.md))
+2. **Did I witness it, or hear from primary sources?** (See: [Before You Judge](./before-you-judge.md)) If NO → STOP.
 3. What is the actual [severity](./severity.md)?
 4. What is the actual [type](./types-of-mistakes.md)?
 5. Is my response proportional?
